@@ -4,7 +4,7 @@ String
 - Output list of strings representing a page of hostings given a list of CSV strings.
 - Given a list of words, find the word pairs that when concatenated form a palindrome.
 - Find the most efficient way to identify what character is out of place in a non-palindrome.
-- Implement a simple regex parser which, given a string and a pattern, returns a boolean indicating whether the input matches the pattern. By simple, we mean that the regex can only contain special character: `*` (star), `.` (dot), `+` (plus). The star means that there will be zero or more of previous character in that place in the pattern. The dot means any character for that position. The plus means one or more of previous character in that place in the pattern.
+- Implement a simple regex parser which, given a string and a pattern, returns a boolean indicating whether the input matches the pattern. By simple, we mean that the regex can only contain the following special characters: `*` (star), `.` (dot), `+` (plus). The star means that there will be zero or more of the previous character in that place in the pattern. The dot means any character for that position. The plus means one or more of previous character in that place in the pattern.
 - Find all words from a dictionary that are x edit distance away.
 - Given a string IP and number n, print all CIDR addresses that cover that range.
 - Write a function called `eval`, which takes a string and returns a boolean. This string is allowed 6 different characters: `0`, `1`, `&`, `|`, `(`, and `)`. `eval` should evaluate the string as a boolean expression, where `0` is `false`, `1` is `true`, `&` is an `and`, and `|` is an `or`.
@@ -16,7 +16,6 @@ String
 - If you received a file in chunks, calculate when you have the full file. Quite an open-ended question. Can assume chunks come with start and end, or size, etc.
 - Given a list of names (strings) and the width of a line, design an algorithm to display them using the minimum number of lines.
 - Design a spell-checking algorithm.
-- Count and say problem.
 - Longest substring with `K` unique characters.
   - [Source](http://blog.gainlo.co/index.php/2016/04/12/find-the-longest-substring-with-k-unique-characters/)
 - Given a set of random strings, write a function that returns a set that groups all the anagrams together.

@@ -1,7 +1,7 @@
 Interview Cheatsheet
 ==
 
-This is a straight-to-the-point distilled list of technical interview Do's and Don'ts, mainly for algorithmic interviews. Some of these may apply to only phone screens on whiteboard interviews but most will apply to both. I revise this list before each of my interviews to remind myself of them and eventually internalized all of them to the point I do not have to rely on it anymore.
+This is a straight-to-the-point, distilled list of technical interview Do's and Don'ts, mainly for algorithmic interviews. Some of these may apply to only phone screens or whiteboard interviews, but most will apply to both. I revise this list before each of my interviews to remind myself of them and eventually internalized all of them to the point I do not have to rely on it anymore.
 
 For a detailed walkthrough of interview preparation, refer to the ["Preparing for a Coding Interview"](./) section.
 
@@ -30,7 +30,7 @@ For a detailed walkthrough of interview preparation, refer to the ["Preparing fo
 |✅|Introduce yourself in a few sentences under a minute or two.|
 |✅|Mention interesting points that are relevant to the role you are applying for.|
 |✅|Sound enthusiastic! Speak with a smile and you will naturally sound more engaging.|
-|❌|Spend too long introducing yourself. The more time you spend talk the less time you have to code.|
+|❌|Spend too long introducing yourself. The more time you spend talking the less time you have to code.|
 
 ### 3. Upon Getting the Question
 
@@ -101,7 +101,3 @@ For a detailed walkthrough of interview preparation, refer to the ["Preparing fo
 |-|-|
 |✅|Record the interview questions and answers down as these can be useful for future reference.|
 |⚠️|Send a follow up email to your interviewer(s) thanking them for their time and the opportunity to interview with them.|
-
-###### References
-
-- [Preparing for a Facebook/Google Software Engineer Interview](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/)
